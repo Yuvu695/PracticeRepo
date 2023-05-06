@@ -1,0 +1,16 @@
+D:\Git_Practice\Fibonacci_Series\bin\Debug\net5.0\Fibonacci_Series.exe
+D:\Git_Practice\Fibonacci_Series\bin\Debug\net5.0\Fibonacci_Series.deps.json
+D:\Git_Practice\Fibonacci_Series\bin\Debug\net5.0\Fibonacci_Series.runtimeconfig.json
+D:\Git_Practice\Fibonacci_Series\bin\Debug\net5.0\Fibonacci_Series.runtimeconfig.dev.json
+D:\Git_Practice\Fibonacci_Series\bin\Debug\net5.0\Fibonacci_Series.dll
+D:\Git_Practice\Fibonacci_Series\bin\Debug\net5.0\ref\Fibonacci_Series.dll
+D:\Git_Practice\Fibonacci_Series\bin\Debug\net5.0\Fibonacci_Series.pdb
+D:\Git_Practice\Fibonacci_Series\obj\Debug\net5.0\Fibonacci_Series.csprojAssemblyReference.cache
+D:\Git_Practice\Fibonacci_Series\obj\Debug\net5.0\Fibonacci_Series.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git_Practice\Fibonacci_Series\obj\Debug\net5.0\Fibonacci_Series.AssemblyInfoInputs.cache
+D:\Git_Practice\Fibonacci_Series\obj\Debug\net5.0\Fibonacci_Series.AssemblyInfo.cs
+D:\Git_Practice\Fibonacci_Series\obj\Debug\net5.0\Fibonacci_Series.csproj.CoreCompileInputs.cache
+D:\Git_Practice\Fibonacci_Series\obj\Debug\net5.0\Fibonacci_Series.dll
+D:\Git_Practice\Fibonacci_Series\obj\Debug\net5.0\ref\Fibonacci_Series.dll
+D:\Git_Practice\Fibonacci_Series\obj\Debug\net5.0\Fibonacci_Series.pdb
+D:\Git_Practice\Fibonacci_Series\obj\Debug\net5.0\Fibonacci_Series.genruntimeconfig.cache
